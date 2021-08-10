@@ -1,0 +1,10 @@
+D:\Code\Winform\Message Security\Message Security\obj\Debug\Message Security.csproj.AssemblyReference.cache
+D:\Code\Winform\Message Security\Message Security\obj\Debug\Message_Security.Form1.resources
+D:\Code\Winform\Message Security\Message Security\obj\Debug\Message_Security.Properties.Resources.resources
+D:\Code\Winform\Message Security\Message Security\obj\Debug\Message Security.csproj.GenerateResource.cache
+D:\Code\Winform\Message Security\Message Security\obj\Debug\Message Security.csproj.CoreCompileInputs.cache
+D:\Code\Winform\Message Security\Message Security\obj\Debug\Message Security.exe
+D:\Code\Winform\Message Security\Message Security\obj\Debug\Message Security.pdb
+D:\Code\Winform\Message Security.exe.config
+D:\Code\Winform\Message Security.exe
+D:\Code\Winform\Message Security.pdb
